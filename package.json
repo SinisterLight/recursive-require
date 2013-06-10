@@ -20,5 +20,9 @@
   "author": "SinisterLight",
   "license": "BSD",
   "readmeFilename": "Readme.md",
-  "gitHead": "bf1db9a910857f86dd7906c41387890e37a3ced9"
+  "gitHead": "bf1db9a910857f86dd7906c41387890e37a3ced9", 
+  "devDependencies": {
+     "mocha": "",
+     "should": ""
+  }
 }
