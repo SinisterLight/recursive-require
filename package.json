@@ -1,6 +1,6 @@
 {
   "name": "recursive-require",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Recursive requiring all js in folder and subfolders",
   "main": "./lib/main.js",
   "directories": {
