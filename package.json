@@ -9,9 +9,6 @@
   "scripts": {
     "test": "mocha"
   },
-  "bin": {
-    "recursive-require": "./bin/recursive-require"
-  },
   "repository": {
     "type": "git",
     "url": "git://github.com/SinisterLight/recursive-require.git"
