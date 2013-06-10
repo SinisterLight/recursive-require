@@ -1,0 +1,24 @@
+{
+  "name": "recursive-require",
+  "version": "0.0.0",
+  "description": "Recursive requiring all js in folder and subfolders",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/SinisterLight/recursive-require.git"
+  },
+  "keywords": [
+    "recursive",
+    "require"
+  ],
+  "author": "SinisterLight",
+  "license": "BSD",
+  "readmeFilename": "Readme.md",
+  "gitHead": "bf1db9a910857f86dd7906c41387890e37a3ced9"
+}
