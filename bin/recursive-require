@@ -1,5 +1,0 @@
- #!/usr/bin/env node
- var recursive_require = require('../lib/main');
-
- var args = process.argv.slice(2);
- console.log(recursive_require(args));
